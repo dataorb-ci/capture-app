@@ -1,8 +1,8 @@
 {
-  "app_hub_id": "92b75fd0-34cc-451c-942f-3dd0f283bcbd",
+  "app_hub_id": "56h75fd0-34cc-451c-942f-3dd0f283bfbh",
   "appType": "APP",
-  "short_name": "capture",
-  "name": "Capture",
+  "short_name": "data-capture",
+  "name": "Data Capture",
   "version": "100.55.0",
   "core_app": true,
   "launch_path": "index.html",
