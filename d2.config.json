@@ -2,7 +2,6 @@
   "name": "data-capture",
   "title": "Data Capture",
   "type": "app",
-  "id": "56h75fd0-34cc-451c-942f-3dd0f283bfbh",
   "minDHIS2Version": "2.38",
   "coreApp": true,
   "version": "100.55.0",
